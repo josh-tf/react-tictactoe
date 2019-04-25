@@ -1,5 +1,12 @@
-<<<<<<< HEAD
+# TicTacToe - A ReactJS Demo
+
+This is the demo project from the official *Intro to React* demo tutorial, you can read more about it [here](https://reactjs.org/tutorial/tutorial.html).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+View the demo [here](https://josh-tf.github.io/react-tictactoe) (hosted on `gh-pages`).
+
+![enter image description here](https://i.imgur.com/9Cg5Xoe.jpg)
 
 ## Available Scripts
 
@@ -32,42 +39,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# react-demo
-Tic Tac Toe game from the ReactJS Tutorial
->>>>>>> 56b59af1e58cfd9d46b973c7aba8f4c227b98818
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
