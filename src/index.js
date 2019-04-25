@@ -2,8 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 
-import { throwStatement } from "@babel/types";
-
 function Square(props) {
   const className =
     "square" +
@@ -133,7 +131,7 @@ class Game extends React.Component {
       const row = 1 + Math.floor(lastMoved / 3);
       const desc = move ? "Go to move #" + move : "Go to game start";
 
-      if (move == 0) {
+      if (move === 0) {
         return (
           <tr>
             <td>{move}</td>
@@ -192,7 +190,7 @@ class Game extends React.Component {
             <div class="col-lg-12 text-center">
               <h1 class="mt-5">Tic Tac Toe</h1>
               <p class="lead">
-                A <i>toeriffic</i> spin on the <a href="">Intro to React</a> tutorial.
+                A <i>toeriffic</i> spin on the <a href="https://reactjs.org/tutorial/tutorial.html">Intro to React</a> tutorial.
               </p>
 
               <div class="row">
