@@ -103,6 +103,19 @@ class Game extends React.Component {
     });
   }
 
+  resetGame() {
+    this.setState({
+      history: [
+        {
+          squares: Array(9).fill(null)
+        }
+      ],
+      stepNumber: 0,
+      isAscending: true,
+      xIsNext: false
+    });
+  }
+
   render() {
     const history = this.state.history;
     const current = history[this.state.stepNumber];
@@ -219,7 +232,7 @@ class Game extends React.Component {
 
                     <button
                         className="btn btn-danger btn"
-                        onClick={() => this.handleSortToggle()}
+                        onClick={() => this.resetGame()}
                       >
                         Reset Game
                       </button>
