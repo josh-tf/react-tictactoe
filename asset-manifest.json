@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-tictactoe/static/css/main.1f8055d2.chunk.css",
-    "main.js": "/react-tictactoe/static/js/main.3612ebf9.chunk.js",
-    "main.js.map": "/react-tictactoe/static/js/main.3612ebf9.chunk.js.map",
+    "main.js": "/react-tictactoe/static/js/main.f3fd134c.chunk.js",
+    "main.js.map": "/react-tictactoe/static/js/main.f3fd134c.chunk.js.map",
     "runtime~main.js": "/react-tictactoe/static/js/runtime~main.f8e643ec.js",
     "runtime~main.js.map": "/react-tictactoe/static/js/runtime~main.f8e643ec.js.map",
-    "static/js/2.70aab571.chunk.js": "/react-tictactoe/static/js/2.70aab571.chunk.js",
-    "static/js/2.70aab571.chunk.js.map": "/react-tictactoe/static/js/2.70aab571.chunk.js.map",
+    "static/js/2.0e3f6a1a.chunk.js": "/react-tictactoe/static/js/2.0e3f6a1a.chunk.js",
+    "static/js/2.0e3f6a1a.chunk.js.map": "/react-tictactoe/static/js/2.0e3f6a1a.chunk.js.map",
     "index.html": "/react-tictactoe/index.html",
-    "precache-manifest.7193a1ecc8613d8f54f374f61edb9c3b.js": "/react-tictactoe/precache-manifest.7193a1ecc8613d8f54f374f61edb9c3b.js",
+    "precache-manifest.9b947f5048c8ae46bef4bf2c1e6fb92f.js": "/react-tictactoe/precache-manifest.9b947f5048c8ae46bef4bf2c1e6fb92f.js",
     "service-worker.js": "/react-tictactoe/service-worker.js",
     "static/css/main.1f8055d2.chunk.css.map": "/react-tictactoe/static/css/main.1f8055d2.chunk.css.map"
   }
