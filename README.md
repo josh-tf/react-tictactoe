@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 View the demo [here](https://josh-tf.github.io/react-tictactoe) (hosted on `gh-pages`).
 
-![enter image description here](https://i.imgur.com/9Cg5Xoe.jpg)
+![Screenshot](https://i.imgur.com/pBhTISD.png)
 
 ## Available Scripts
 
